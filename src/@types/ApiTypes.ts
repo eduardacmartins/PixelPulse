@@ -1,0 +1,1 @@
+export const GENRES = ['FPS', 'RPG'] as const
